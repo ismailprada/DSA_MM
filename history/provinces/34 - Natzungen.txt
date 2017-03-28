@@ -1,0 +1,20 @@
+# c_natzungen
+
+# County Title
+title = c_natzungen
+
+# Settlements
+max_settlements = 6
+
+b_natzungen = castle
+b_blumenau = castle
+b_muhlwasser = castle
+b_natzungen_2 = city
+b_nachtdann = temple
+#b_natzungen_3 = temple
+
+# Misc
+culture = garethi
+religion = puniner
+terrain = farmlands
+#History

@@ -1,0 +1,20 @@
+# c_gnitzenkuhl
+
+# County Title
+title = c_gnitzenkuhl
+
+# Settlements
+max_settlements = 6
+
+b_friedburg = castle
+b_aubinge = castle
+b_gnitzenkuhl = city
+b_sanct_schelachar = temple
+#b_gnitzenkuhl_2 = city
+#b_gnitzenkuhl_3 = temple
+
+# Misc
+culture = nebachot
+religion = puniner
+terrain = farmlands
+#History

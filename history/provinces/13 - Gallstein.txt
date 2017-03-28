@@ -1,0 +1,21 @@
+# c_gallstein
+
+# County Title
+title = c_gallstein
+
+# Settlements
+max_settlements = 7
+
+b_mortres = castle
+b_hahnenfels = castle
+b_gallestra = city
+b_letzenbronn = city
+b_hahnendorf = city
+b_sancta_ermengild = temple
+#b_gallstein = castle
+
+# Misc
+culture = garethi
+religion = puniner
+terrain = farmlands
+#History

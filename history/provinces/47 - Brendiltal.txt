@@ -1,0 +1,21 @@
+# c_brendiltal
+
+# County Title
+title = c_brendiltal
+
+# Settlements
+max_settlements = 7
+
+b_mantikorszahn = castle
+b_efferdsblick = castle
+b_brendiltal = city
+b_reichsgart = city
+b_praiseneck = temple
+#b_brendiltal_2 = temple
+#b_brendiltal_3 = castle
+
+# Misc
+culture = nebachot
+religion = puniner
+terrain = farmlands
+#History

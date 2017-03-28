@@ -1,0 +1,19 @@
+# c_sertis
+
+# County Title
+title = c_sertis
+
+# Settlements
+max_settlements = 5
+
+b_breitenhain = castle
+b_hornbeil = city
+b_falkenwind = castle
+#b_sertis = castle
+#b_sertis_2 = city
+
+# Misc
+culture = garethi
+religion = puniner
+terrain = farmlands
+#History

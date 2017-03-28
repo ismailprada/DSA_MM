@@ -1,0 +1,20 @@
+# c_feidewald
+
+# County Title
+title = c_feidewald
+
+# Settlements
+max_settlements = 6
+
+b_feidewald = castle
+b_orbetreu = castle
+b_kronbrunn = city
+#b_feidewald_2 = castle
+#b_feidewald_3 = city
+#b_feidewald_4 = temple
+
+# Misc
+culture = garethi
+religion = puniner
+terrain = farmlands
+#History

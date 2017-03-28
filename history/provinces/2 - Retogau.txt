@@ -1,0 +1,21 @@
+# c_retogau
+
+# County Title
+title = c_retogau
+
+# Settlements
+max_settlements = 7
+
+b_goldenstein = castle
+b_nattersquell = city
+b_goldenstein_2 = city
+b_branningsgrund = city
+b_quelltempel = temple
+b_vierok = city
+b_hallklee = city
+
+# Misc
+culture = garethi
+religion = puniner
+terrain = farmlands
+#History

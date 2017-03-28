@@ -1,0 +1,19 @@
+# c_serrinmoor
+
+# County Title
+title = c_serrinmoor
+
+# Settlements
+max_settlements = 5
+
+b_weissenstein = castle
+b_gesselingen = castle
+b_breitewacht = castle
+#b_serrinmoor = castle
+#b_serrinmoor_2 = city
+
+# Misc
+culture = garethi
+religion = puniner
+terrain = farmlands
+#History

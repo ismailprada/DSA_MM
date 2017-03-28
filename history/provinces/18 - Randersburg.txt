@@ -1,0 +1,21 @@
+# c_randersburg
+
+# County Title
+title = c_randersburg
+
+# Settlements
+max_settlements = 7
+
+b_randersburg = castle
+b_hornbach = castle
+b_hornbach_2 = city
+b_nuzell = city
+b_randersburg_2 = city
+b_trullenheim = city
+b_sancta_barmhilde = temple
+
+# Misc
+culture = garethi
+religion = puniner
+terrain = forest
+#History

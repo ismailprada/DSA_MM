@@ -1,0 +1,21 @@
+# c_schwarztannen
+
+# County Title
+title = c_schwarztannen
+
+# Settlements
+max_settlements = 7
+
+b_scharfenstein = castle
+b_schwarztannen = city
+b_hexenmuehle = city
+b_rallingen = city
+b_tannhus = city
+#b_schwarztannen_2 = temple
+#b_schwarztannen_3 = castle
+
+# Misc
+culture = garethi
+religion = puniner
+terrain = forest
+#History

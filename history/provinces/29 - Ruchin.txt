@@ -1,0 +1,21 @@
+# c_ruchin
+
+# County Title
+title = c_ruchin
+
+# Settlements
+max_settlements = 7
+
+b_leutrutz = castle
+b_ruchin = city
+b_antalorgol = city
+b_greupelwacht = castle
+b_schlund = temple
+#b_ruchin_2 = temple
+#b_ruchin_3 = castle
+
+# Misc
+culture = garethi
+religion = puniner
+terrain = farmlands
+#History

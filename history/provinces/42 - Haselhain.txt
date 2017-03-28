@@ -1,0 +1,20 @@
+# c_haselhain
+
+# County Title
+title = c_haselhain
+
+# Settlements
+max_settlements = 6
+
+b_haselhain = castle
+b_baranschek = castle
+b_eslamskesh = city
+b_rashiahal = temple
+#b_haselhain_2 = city
+#b_haselhain_3 = temple
+
+# Misc
+culture = nebachot
+religion = puniner
+terrain = farmlands
+#History

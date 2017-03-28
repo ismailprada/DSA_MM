@@ -1,0 +1,21 @@
+# c_raulsmark
+
+# County Title
+title = c_raulsmark
+
+# Settlements
+max_settlements = 7
+
+b_alt_gareth = castle
+b_alt_gareth_2 = city
+b_meilersgrund = city
+b_rosskuppel = city
+b_neu_gareth = city
+b_kronling = city
+b_city_of_light = temple
+
+# Misc
+culture = garethi
+religion = puniner
+terrain = farmlands
+#History

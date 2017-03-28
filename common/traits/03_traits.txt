@@ -1,0 +1,242 @@
+########################################################################################################
+# WARNING: IF YOU DON'T ADD NEW TRAITS LAST (IN THE LAST READ TRAIT FILE), IT WILL BREAK OLD SAVE GAMES!
+########################################################################################################
+
+race_elf = {
+    immortal = yes
+    
+    sex_appeal_opinion = 30
+
+    fertility = -50.0 # Getting pregnant will be done through events
+    
+    diplomacy = 1
+    
+    intrigue = -1
+    
+    same_opinion = 10
+    
+    health = 10.0
+    
+    ai_ambition = -40
+    ai_zeal = -40
+	
+	female_compliment = COMPL_BEAUTY
+	female_compliment_adj = COMPL_FAIR
+	male_compliment = COMPL_CHARMER
+	male_compliment_adj = COMPL_HANDSOME
+	child_compliment_adj = COMPL_PRETTY
+    
+    random = no
+}
+
+race_dwarf = {
+    immortal = yes
+    
+    same_opinion = 10
+    
+    fertility = -50.0 # Getting pregnant will be done through events
+    
+    health = 5.0
+    
+    random = no
+}
+
+mage = { #maybe differentiate the guilds?
+    diplomacy = 1
+    martial = 1
+    intrigue = 2
+    learning = 5
+
+    same_opinion = 5
+    
+    ai_ambition = 10
+    
+    male_compliment = COMPL_SCHOLAR
+	female_compliment = COMPL_SCHOLAR
+	male_compliment_adj = COMPL_WISE
+	female_compliment_adj = COMPL_WISE
+}
+
+sympathy_twelve = {
+	opposites =  {
+		zealous
+	}
+	
+	potential = {
+		NOT = { religion_group = twelve }
+	}
+
+	tolerates_twelve = yes		
+	
+	same_opinion_if_same_religion = 5
+
+	customizer = no
+	random = no
+
+	male_insult = INSULT_LOVER_OF_HEATHENS
+	female_insult = INSULT_LOVER_OF_HEATHENS
+	male_insult_adj = INSULT_UNPRINCIPLED
+	female_insult_adj = INSULT_UNPRINCIPLED
+	child_insult_adj = INSULT_STUPID
+}
+
+sympathy_rastullah = {
+	opposites =  {
+		zealous
+	}
+	
+	potential = {
+		NOT = { religion_group = rastullah_group }
+	}
+
+	tolerates_rastullah_group = yes		
+	
+	same_opinion_if_same_religion = 5
+
+	customizer = no
+	random = no
+
+	male_insult = INSULT_LOVER_OF_HEATHENS
+	female_insult = INSULT_LOVER_OF_HEATHENS
+	male_insult_adj = INSULT_UNPRINCIPLED
+	female_insult_adj = INSULT_UNPRINCIPLED
+	child_insult_adj = INSULT_STUPID
+}
+
+sympathy_maraskan = {
+	opposites =  {
+		zealous
+	}
+	
+	potential = {
+		NOT = { religion_group = maraskan }
+	}
+
+	tolerates_maraskan = yes		
+	
+	same_opinion_if_same_religion = 5
+
+	customizer = no
+	random = no
+
+	male_insult = INSULT_LOVER_OF_HEATHENS
+	female_insult = INSULT_LOVER_OF_HEATHENS
+	male_insult_adj = INSULT_UNPRINCIPLED
+	female_insult_adj = INSULT_UNPRINCIPLED
+	child_insult_adj = INSULT_STUPID
+}
+
+sympathy_shaman_n = {
+	opposites =  {
+		zealous
+	}
+	
+	potential = {
+		NOT = { religion_group = shaman_n }
+	}
+
+	tolerates_shaman_n = yes		
+	
+	same_opinion_if_same_religion = 5
+
+	customizer = no
+	random = no
+
+	male_insult = INSULT_LOVER_OF_HEATHENS
+	female_insult = INSULT_LOVER_OF_HEATHENS
+	male_insult_adj = INSULT_UNPRINCIPLED
+	female_insult_adj = INSULT_UNPRINCIPLED
+	child_insult_adj = INSULT_STUPID
+}
+
+sympathy_shaman_s = {
+	opposites =  {
+		zealous
+	}
+	
+	potential = {
+		NOT = { religion_group = shaman_s }
+	}
+
+	tolerates_shaman_s = yes		
+	
+	same_opinion_if_same_religion = 5
+
+	customizer = no
+	random = no
+
+	male_insult = INSULT_LOVER_OF_HEATHENS
+	female_insult = INSULT_LOVER_OF_HEATHENS
+	male_insult_adj = INSULT_UNPRINCIPLED
+	female_insult_adj = INSULT_UNPRINCIPLED
+	child_insult_adj = INSULT_STUPID
+}
+
+sympathy_orks = {
+	opposites =  {
+		zealous
+	}
+	
+	potential = {
+		NOT = { religion_group = orks }
+	}
+
+	tolerates_orks = yes		
+	
+	same_opinion_if_same_religion = 5
+
+	customizer = no
+	random = no
+
+	male_insult = INSULT_LOVER_OF_HEATHENS
+	female_insult = INSULT_LOVER_OF_HEATHENS
+	male_insult_adj = INSULT_UNPRINCIPLED
+	female_insult_adj = INSULT_UNPRINCIPLED
+	child_insult_adj = INSULT_STUPID
+}
+
+sympathy_echsen = {
+	opposites =  {
+		zealous
+	}
+	
+	potential = {
+		NOT = { religion_group = echsen }
+	}
+
+	tolerates_echsen = yes		
+	
+	same_opinion_if_same_religion = 5
+
+	customizer = no
+	random = no
+
+	male_insult = INSULT_LOVER_OF_HEATHENS
+	female_insult = INSULT_LOVER_OF_HEATHENS
+	male_insult_adj = INSULT_UNPRINCIPLED
+	female_insult_adj = INSULT_UNPRINCIPLED
+	child_insult_adj = INSULT_STUPID
+}
+
+sympathy_demonic = {
+	opposites =  {
+		zealous
+	}
+	
+	potential = {
+		NOT = { religion_group = demonic }
+	}
+
+	tolerates_demonic = yes
+	
+	same_opinion_if_same_religion = 5
+
+	customizer = no
+	random = no
+
+	male_insult = INSULT_LOVER_OF_HEATHENS
+	female_insult = INSULT_LOVER_OF_HEATHENS
+	male_insult_adj = INSULT_UNPRINCIPLED
+	female_insult_adj = INSULT_UNPRINCIPLED
+	child_insult_adj = INSULT_STUPID
+}

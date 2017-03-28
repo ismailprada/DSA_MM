@@ -1,0 +1,21 @@
+# c_perrinmarsch
+
+# County Title
+title = c_perrinmarsch
+
+# Settlements
+max_settlements = 7
+
+b_rabicum = castle
+b_perricum = city
+b_pelkhafen = city
+b_loewenburg = castle
+b_sancta_ardare = temple
+#b_perrinmarsch = temple
+#b_perrinmarsch_2 = castle
+
+# Misc
+culture = garethi
+religion = puniner
+terrain = farmlands
+#History

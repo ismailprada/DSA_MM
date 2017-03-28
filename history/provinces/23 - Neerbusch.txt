@@ -1,0 +1,20 @@
+# c_neerbusch
+
+# County Title
+title = c_neerbusch
+
+# Settlements
+max_settlements = 6
+
+b_hochnjerburg = castle
+b_brackenfels = castle
+b_neerquell = temple
+b_ulmenhain = castle
+b_essental = temple
+#b_neerbusch = temple
+
+# Misc
+culture = garethi
+religion = puniner
+terrain = farmlands
+#History

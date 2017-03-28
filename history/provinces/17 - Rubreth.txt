@@ -1,0 +1,21 @@
+# c_rubreth
+
+# County Title
+title = c_rubreth
+
+# Settlements
+max_settlements = 7
+
+b_cresseneck = castle
+b_grollenburg = castle
+b_rubreth = city
+b_waldwiesen = city
+b_sonnenau = temple
+#b_rubreth_2 = temple
+#b_rubreth_3 = castle
+
+# Misc
+culture = garethi
+religion = puniner
+terrain = forest
+#History

@@ -1,0 +1,18 @@
+# c_viehwiesen
+
+# County Title
+title = c_viehwiesen
+
+# Settlements
+max_settlements = 4
+
+b_ox = castle
+b_oberdachsburg = castle
+b_sanct_ogdolf = temple
+#b_viehwiesen = castle
+
+# Misc
+culture = garethi
+religion = puniner
+terrain = farmlands
+#History

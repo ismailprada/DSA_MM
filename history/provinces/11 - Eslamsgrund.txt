@@ -1,0 +1,21 @@
+# c_eslamsgrund
+
+# County Title
+title = c_eslamsgrund
+
+# Settlements
+max_settlements = 7
+
+b_kreusenburg = castle
+b_grafenfels = castle
+b_reinherz = castle
+b_kaisertal = castle
+b_eslamsgrund = city
+#b_eslamsgrund_2 = temple
+#b_eslamsgrund_3 = castle
+
+# Misc
+culture = garethi
+religion = puniner
+terrain = farmlands
+#History

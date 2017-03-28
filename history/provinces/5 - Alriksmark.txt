@@ -1,0 +1,21 @@
+# c_alriksmark
+
+# County Title
+title = c_alriksmark
+
+# Settlements
+max_settlements = 7
+
+b_alrikshorst = castle
+b_alrikshain = city
+b_grossgurvanshof = city
+b_finkenbach = city
+#b_alriksmark = city
+#b_alriksmark_2 = temple
+#b_alriksmark_3 = castle
+
+# Misc
+culture = garethi
+religion = puniner
+terrain = farmlands
+#History

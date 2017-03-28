@@ -1,0 +1,21 @@
+# c_ochsenblut
+
+# County Title
+title = c_ochsenblut
+
+# Settlements
+max_settlements = 7
+
+b_rudes_schild = castle
+b_weyring = city
+b_wagenhalt = city
+b_kaltensporn = city
+b_nesselweil = city
+b_hall_of_sun = temple
+#b_ochsenblut = castle
+
+# Misc
+culture = garethi
+religion = puniner
+terrain = farmlands
+#History

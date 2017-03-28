@@ -1,0 +1,24 @@
+# e_middlerealm
+500.1.1={
+	law = true_cognatic_succession
+	law = succ_gavelkind
+	law = status_of_women_3
+}
+800.1.1={
+	liege=k_gareth
+}
+1021.1.1 = {
+	holder = 106
+}
+987.1.1 = {
+	holder = 108
+}
+933.1.1 = {
+	holder = 111
+}
+942.1.1 = {
+	holder = 113
+}
+975.1.1 = {
+	holder = 116
+}

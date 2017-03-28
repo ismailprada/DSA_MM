@@ -1,0 +1,20 @@
+# c_dornensee
+
+# County Title
+title = c_dornensee
+
+# Settlements
+max_settlements = 6
+
+b_yossenfels = castle
+b_dornensee = city
+b_tannenheim = city
+b_praiofold = temple
+#b_dornensee_2 = city
+#b_dornensee_3 = temple
+
+# Misc
+culture = garethi
+religion = puniner
+terrain = farmlands
+#History

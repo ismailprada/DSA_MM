@@ -1,0 +1,19 @@
+# c_wasserburg
+
+# County Title
+title = c_wasserburg
+
+# Settlements
+max_settlements = 5
+
+b_kelsenburg = castle
+b_wasserburg = city
+b_felsentor = castle
+#b_wasserburg_2 = castle
+#b_wasserburg_3 = city
+
+# Misc
+culture = garethi
+religion = puniner
+terrain = farmlands
+#History

@@ -1,0 +1,20 @@
+# c_tannwirk
+
+# County Title
+title = c_tannwirk
+
+# Settlements
+max_settlements = 6
+
+b_persenburg = castle
+b_tannwirk = city
+b_zweifelsfels = castle
+b_sancta_henrica = temple
+#b_tannwirk_2 = city
+#b_tannwirk_3 = temple
+
+# Misc
+culture = garethi
+religion = puniner
+terrain = farmlands
+#History

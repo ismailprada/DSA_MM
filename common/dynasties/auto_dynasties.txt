@@ -1,0 +1,461 @@
+1 = {
+	name = "von Gareth"
+	culture = garethi
+	used_for_random = no
+}
+
+2 = {
+	name = "Bennain"
+	culture = albernian
+	used_for_random = no
+}
+
+3 = {
+	name = "von Luring"
+	culture = garethi
+	used_for_random = no
+}
+
+4 = {
+	name = "vom Berg"
+	culture = garethi
+	used_for_random = no
+}
+
+5 = {
+	name = "von Wetterfels"
+	culture = garethi
+	used_for_random = no
+}
+
+6 = {
+	name = "von Hirschfurten"
+	culture = garethi
+	used_for_random = no
+}
+
+7 = {
+	name = "von Zankenblatt"
+	culture = garethi
+	used_for_random = no
+}
+
+8 = {
+	name = "von Waldfang"
+	culture = garethi
+	used_for_random = no
+}
+
+9 = {
+	name = "von Ehrenstein"
+	culture = garethi
+	used_for_random = no
+}
+
+10 = {
+	name = "von Eslamsgrund"
+	culture = garethi
+	used_for_random = no
+}
+
+11 = {
+	name = "Limpurg"
+	culture = garethi
+	used_for_random = no
+}
+
+12 = {
+	name = "von Helburg"
+	culture = garethi
+	used_for_random = no
+}
+
+13 = {
+	name = "von Falkenstein"
+	culture = garethi
+	used_for_random = no
+}
+
+14 = {
+	name = "von Linara"
+	culture = albernian
+	used_for_random = no
+}
+
+15 = {
+	name = "Nemrod"
+	culture = garethi
+	used_for_random = no
+}
+
+16 = {
+	name = "von Falkenwind"
+	culture = garethi
+	used_for_random = no
+}
+
+17 = {
+	name = "von Hohentann"
+	culture = garethi
+	used_for_random = no
+}
+
+18 = {
+	name = "Quellentanz"
+	culture = mead_elves
+	used_for_random = no
+}
+
+19 = {
+	name = "zu Gesselingen"
+	culture = garethi
+	used_for_random = no
+}
+
+20 = {
+	name = "von Eychgras"
+	culture = garethi
+	used_for_random = no
+}
+
+21 = {
+	name = "von Quintian-Quandt"
+	culture = garethi
+	used_for_random = no
+}
+
+22 = {
+	name = "von Natzungen"
+	culture = garethi
+	used_for_random = no
+}
+
+23 = {
+	name = "von Hartsteen"
+	culture = garethi
+	used_for_random = no
+}
+
+24 = {
+	name = "Vierock"
+	culture = garethi
+	used_for_random = no
+}
+
+25 = {
+	name = "Zweihammer"
+	culture = hill_d
+	used_for_random = no
+}
+
+26 = {
+	name = "von Erlenstamm"
+	culture = garethi
+	used_for_random = no
+}
+
+27 = {
+	name = "von Ruchin"
+	culture = garethi
+	used_for_random = no
+}
+
+28 = {
+	name = "von Ochs"
+	culture = garethi
+	used_for_random = no
+}
+
+29 = {
+	name = "von Hasenfeld"
+	culture = garethi
+	used_for_random = no
+}
+
+30 = {
+	name = "von Arpitz"
+	culture = meadows
+	used_for_random = no
+}
+
+31 = {
+	name = "von Quastenbroich"
+	culture = garethi
+	used_for_random = no
+}
+
+32 = {
+	name = "von Keilholtz"
+	culture = garethi
+	used_for_random = no
+}
+
+33 = {
+	name = "vom Greifener Land"
+	culture = garethi
+	used_for_random = no
+}
+
+34 = {
+	name = "von Schelentorff"
+	culture = garethi
+	used_for_random = no
+}
+
+35 = {
+	name = "von Reiffenberg"
+	culture = garethi
+	used_for_random = no
+}
+
+36 = {
+	name = "Bernigandh"
+	culture = garethi
+	used_for_random = no
+}
+
+37 = {
+	name = "von Bredenhag"
+	culture = garethi
+	used_for_random = no
+}
+
+38 = {
+	name = "von Wertlingen"
+	culture = garethi
+	used_for_random = no
+}
+
+39 = {
+	name = "von Greifenhorst"
+	culture = garethi
+	used_for_random = no
+}
+
+40 = {
+	name = "von Nebelstein"
+	culture = garethi
+	used_for_random = no
+}
+
+41 = {
+	name = "von Eisslingern"
+	culture = garethi
+	used_for_random = no
+}
+
+42 = {
+	name = "von Radulfshausen"
+	culture = garethi
+	used_for_random = no
+}
+
+43 = {
+	name = "von Espengrund"
+	culture = garethi
+	used_for_random = no
+}
+
+44 = {
+	name = "von Dergelstein"
+	culture = garethi
+	used_for_random = no
+}
+
+45 = {
+	name = "Adersin"
+	culture = garethi
+	used_for_random = no
+}
+
+46 = {
+	name = "von Breitenquell"
+	culture = garethi
+	used_for_random = no
+}
+
+47 = {
+	name = "von Greifenberg"
+	culture = garethi
+	used_for_random = no
+}
+
+48 = {
+	name = "von Rabenmund"
+	culture = garethi
+	used_for_random = no
+}
+
+49 = {
+	name = "von Tikaris"
+	culture = garethi
+	used_for_random = no
+}
+
+50 = {
+	name = "von Sturmfels"
+	culture = garethi
+	used_for_random = no
+}
+
+51 = {
+	name = "von Waltern"
+	culture = garethi
+	used_for_random = no
+}
+
+52 = {
+	name = "Gizien'Chul"
+	culture = nebachot
+	used_for_random = no
+}
+
+53 = {
+	name = "Daren'Far"
+	culture = nebachot
+	used_for_random = no
+}
+
+54 = {
+	name = "Fir'Enock"
+	culture = nebachot
+	used_for_random = no
+}
+
+55 = {
+	name = "Beshir a Danal"
+	culture = nebachot
+	used_for_random = no
+}
+
+56 = {
+	name = "Paligan"
+	culture = garethi
+	used_for_random = no
+}
+
+57 = {
+	name = "vom Grossen Fluss"
+	culture = northern_marches
+	used_for_random = no
+}
+
+58 = {
+	name = "von Becherstolz"
+	culture = garethi
+	used_for_random = no
+}
+
+59 = {
+	name = "von Stippwitz"
+	culture = garethi
+	used_for_random = no
+}
+
+60 = {
+	name = "von Zweifelsfels"
+	culture = garethi
+	used_for_random = no
+}
+
+61 = {
+	name = "von Erlenfall"
+	culture = garethi
+	used_for_random = no
+}
+
+62 = {
+	name = "Zagrosch"
+	culture = garethi
+	used_for_random = no
+}
+
+63 = {
+	name = "von Nym"
+	culture = garethi
+	used_for_random = no
+}
+
+64 = {
+	name = "von Leustein"
+	culture = garethi
+	used_for_random = no
+}
+
+65 = {
+	name = "von Waldstein"
+	culture = garethi
+	used_for_random = no
+}
+
+66 = {
+	name = "von Gobelstein"
+	culture = garethi
+	used_for_random = no
+}
+
+67 = {
+	name = "von Gesselingen"
+	culture = garethi
+	used_for_random = no
+}
+
+68 = {
+	name = "Praioslieb"
+    culture = garethi
+	used_for_random = yes
+}
+
+69 = {
+	name = "Rahjalieb"
+    culture = almadan
+	used_for_random = yes
+}
+70 = {
+	name = "von Bärenau"
+	culture = garethi
+	used_for_random = no
+}
+
+71 = {
+	name = "di Silastide"
+	culture = yaquiria
+	used_for_random = no
+}
+
+72 = {
+	name = "von Schallenberg"
+	culture = garethi
+	used_for_random = no
+}
+
+73 = {
+	name = "von Vierock"
+	culture = garethi
+	used_for_random = no
+}
+
+74 = {
+	name = "von Schellenpfort"
+	culture = garethi
+	used_for_random = no
+}
+
+75 = {
+	name = "von Borstenfeld"
+	culture = garethi
+	used_for_random = no
+}
+
+76 = {
+	name = "von Weyringhaus"
+	culture = garethi
+	used_for_random = no
+}
+
+77 = {
+	name = "von Kressenburg"
+	culture = garethi
+	used_for_random = no
+}
+

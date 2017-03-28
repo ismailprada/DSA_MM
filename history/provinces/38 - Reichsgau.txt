@@ -1,0 +1,20 @@
+# c_reichsgau
+
+# County Title
+title = c_reichsgau
+
+# Settlements
+max_settlements = 6
+
+b_zwingzahn = castle
+b_weizengrund = castle
+b_horeth = city
+b_gassel = city
+b_sancta_noiona = temple
+#b_reichsgau = temple
+
+# Misc
+culture = garethi
+religion = puniner
+terrain = farmlands
+#History

@@ -1,0 +1,21 @@
+# c_gerbaldsmark
+
+# County Title
+title = c_gerbaldsmark
+
+# Settlements
+max_settlements = 7
+
+b_brachental = castle
+b_immering = city
+b_uilstein = city
+b_silkwiesen = city
+b_sanct_bulwarth = temple
+b_ridhausen = temple
+b_sancta_ancilla = temple
+
+# Misc
+culture = garethi
+religion = puniner
+terrain = farmlands
+#History

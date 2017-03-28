@@ -1,0 +1,20 @@
+# c_weissbarun
+
+# County Title
+title = c_weissbarun
+
+# Settlements
+max_settlements = 6
+
+b_ferkinaschreck = castle
+b_barbenwehr = castle
+b_hordenberg = city
+b_gerbental = city
+#b_weissbarun = city
+#b_weissbarun_2 = temple
+
+# Misc
+culture = nebachot
+religion = puniner
+terrain = farmlands
+#History

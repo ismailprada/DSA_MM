@@ -1,0 +1,21 @@
+# c_hirschfurten
+
+# County Title
+title = c_hirschfurten
+
+# Settlements
+max_settlements = 7
+
+b_trollhammer = castle
+b_talbach = castle
+b_samlor = city
+b_worringen = city
+b_marano = city
+#b_hirschfurten = temple
+#b_hirschfurten_2 = castle
+
+# Misc
+culture = garethi
+religion = puniner
+terrain = forest
+#History

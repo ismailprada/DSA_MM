@@ -1,0 +1,20 @@
+# c_waldfang
+
+# County Title
+title = c_waldfang
+
+# Settlements
+max_settlements = 6
+
+b_rallersbruck = castle
+b_hirschpforten = castle
+b_waldfang = city
+b_silent_watch = temple
+#b_waldfang_2 = city
+#b_waldfang_3 = temple
+
+# Misc
+culture = garethi
+religion = puniner
+terrain = forest
+#History

@@ -1,0 +1,20 @@
+# c_baerenau
+
+# County Title
+title = c_baerenau
+
+# Settlements
+max_settlements = 6
+
+b_praiosburg = castle
+b_baerenau = castle
+b_baerenau_2 = city
+b_sanct_sighart = temple
+#b_baerenau_3 = city
+#b_baerenau_4 = temple
+
+# Misc
+culture = garethi
+religion = puniner
+terrain = farmlands
+#History

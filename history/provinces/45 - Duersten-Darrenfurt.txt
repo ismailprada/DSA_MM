@@ -1,0 +1,21 @@
+# c_duersten_darrenfurt
+
+# County Title
+title = c_duersten_darrenfurt
+
+# Settlements
+max_settlements = 7
+
+b_ferkina = castle
+b_wolfsburg = castle
+b_darrenfurt = city
+b_morganabad = city
+b_hirtenheim = city
+#b_duersten_darrenfurt = temple
+#b_duersten_darrenfurt_2 = castle
+
+# Misc
+culture = nebachot
+religion = puniner
+terrain = farmlands
+#History

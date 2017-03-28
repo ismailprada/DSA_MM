@@ -1,0 +1,21 @@
+# c_falkenstein
+
+# County Title
+title = c_falkenstein
+
+# Settlements
+max_settlements = 7
+
+b_falkenstein = castle
+b_rondratrutz = castle
+b_falkenstein_2 = city
+b_liebchengrund = city
+b_sanct_cereborn = temple
+b_rathsamshausen = castle
+#b_falkenstein_3 = castle
+
+# Misc
+culture = garethi
+religion = puniner
+terrain = farmlands
+#History

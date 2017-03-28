@@ -1,0 +1,20 @@
+# c_silz
+
+# County Title
+title = c_silz
+
+# Settlements
+max_settlements = 6
+
+b_silz = castle
+b_alka = castle
+b_waldshut = castle
+b_gansbach = temple
+#b_silz_2 = city
+#b_silz_3 = temple
+
+# Misc
+culture = garethi
+religion = puniner
+terrain = farmlands
+#History

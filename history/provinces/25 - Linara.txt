@@ -1,0 +1,21 @@
+# c_linara
+
+# County Title
+title = c_linara
+
+# Settlements
+max_settlements = 7
+
+b_rallerwacht = castle
+b_leustein = castle
+b_uberdiebreite = city
+b_bitani = city
+b_leuental = castle
+#b_linara = temple
+#b_linara_2 = castle
+
+# Misc
+culture = garethi
+religion = puniner
+terrain = farmlands
+#History

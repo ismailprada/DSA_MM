@@ -1,0 +1,21 @@
+# c_halsmark
+
+# County Title
+title = c_halsmark
+
+# Settlements
+max_settlements = 7
+
+b_menzelshall = castle
+b_ackbar = city
+b_perainenau = city
+b_sanct_vernbald = temple
+b_gueldenfeldt = city
+b_grafenstein = city
+#b_halsmark = castle
+
+# Misc
+culture = garethi
+religion = puniner
+terrain = farmlands
+#History
