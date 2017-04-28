@@ -771,6 +771,8 @@ character_event = {
 }
 
 # Becomes possessed
+# Das Event würde bedeuten, dass sich der Charakter dem Namenlosen zuwendet. 
+# Eine Event-Kette wäre passender
 character_event = {
 	id = CM.6130
 	desc = EVTDESC_CM_6130

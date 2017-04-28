@@ -698,6 +698,7 @@ succession_laws = {
 				holder_scope = { 
 					NOT = { religion = catholic }
 					NOT = { religion = fraticelli }
+					NOT = { religion = puniner }
 				}
 			}
 			holder_scope = { 
@@ -741,6 +742,7 @@ succession_laws = {
 				OR = {
 					religion = catholic
 					religion = fraticelli
+					religion = puniner
 				}
 				is_merchant_republic = no
 				OR = {

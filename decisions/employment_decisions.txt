@@ -135,18 +135,36 @@ decisions = {
 		}
 		effect = {
 			piety = -25
-			create_random_priest = {
-				random_traits = yes
-				dynasty = random
-				female = no
-				attributes = {
-					diplomacy = 2
-					learning = 8
-					stewardship = 2
-					intrigue = 2
-					martial = 2
-				}
-			}
+            random_list = {
+                50 = { 
+                    create_random_priest = {
+                        random_traits = yes
+                        dynasty = random
+                        female = yes
+                        attributes = {
+                            diplomacy = 2
+                            learning = 8
+                            stewardship = 2
+                            intrigue = 2
+                            martial = 2
+                        }
+                    }
+                }
+                50 = { 
+                    create_random_priest = {
+                        random_traits = yes
+                        dynasty = random
+                        female = no
+                        attributes = {
+                            diplomacy = 2
+                            learning = 8
+                            stewardship = 2
+                            intrigue = 2
+                            martial = 2
+                        }
+                    }
+                }
+            }
 			new_character = {
 				remove_trait = slow
 				remove_trait = imbecile
@@ -228,18 +246,36 @@ decisions = {
 		}
 		effect = {
 			scaled_wealth = -0.25
-			create_random_steward = {
-				random_traits = yes
-				dynasty = random
-				female = no
-				attributes = {
-					diplomacy = 2
-					learning = 2
-					stewardship = 8
-					intrigue = 2
-					martial = 2
-				}
-			}
+            random_list = {
+                50 = { 
+                    create_random_steward = {
+                        random_traits = yes
+                        dynasty = random
+                        female = no
+                        attributes = {
+                            diplomacy = 2
+                            learning = 2
+                            stewardship = 8
+                            intrigue = 2
+                            martial = 2
+                        }
+                    }
+                }
+                50 = { 
+                    create_random_steward = {
+                        random_traits = yes
+                        dynasty = random
+                        female = yes
+                        attributes = {
+                            diplomacy = 2
+                            learning = 2
+                            stewardship = 8
+                            intrigue = 2
+                            martial = 2
+                        }
+                    }
+                }
+            }
 			new_character = {
 				remove_trait = slow
 				remove_trait = imbecile
