@@ -4667,13 +4667,6 @@ narrative_event = {
 				portrait = [Root.GetID]
 			}
 		}
-		ai_chance = {
-			factor = 50
-			modifier = {
-				factor = 0
-				has_landed_title = d_jomsvikings
-			}
-		}
 		tooltip = { religion = THIS }
 	}
 	option = {
@@ -5338,6 +5331,23 @@ diploresponse_event = {
 diploresponse_event = {
 	id = 537
 	desc = EVTDESC537
+
+	major = no
+	is_triggered_only = yes
+
+	trigger = {
+		ai = no
+	}
+
+	option = {
+		name = "OK"
+	}
+}
+
+# GIVE_ARTIFACT_INTERACTION_ACCEPT_EVENT =
+diploresponse_event = {
+	id = 538
+	desc = EVTDESC538
 
 	major = no
 	is_triggered_only = yes

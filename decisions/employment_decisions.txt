@@ -101,15 +101,6 @@ decisions = {
 						add_trait = shrewd
 					}
 				}
-				hidden_tooltip = {
-					if = {
-						limit = {
-							religion_group = indian_group
-						}
-						add_trait = kshatriya
-						character_event = { id = RoI.30121 }
-					}
-				}
 				set_character_flag = invited_soldier
 				save_event_target_as = invited_character
 			}
@@ -211,15 +202,6 @@ decisions = {
 					}
 					5 = {
 						add_trait = shrewd
-					}
-				}
-				hidden_tooltip = {
-					if = {
-						limit = {
-							religion_group = indian_group
-						}
-						add_trait = brahmin
-						character_event = { id = RoI.30121 }
 					}
 				}
 				save_event_target_as = invited_character
@@ -324,15 +306,6 @@ decisions = {
 						add_trait = shrewd
 					}
 				}
-				hidden_tooltip = {
-					if = {
-						limit = {
-							religion_group = indian_group
-						}
-						add_trait = kshatriya
-						character_event = { id = RoI.30121 }
-					}
-				}
 				save_event_target_as = invited_character
 			}
 			character_event = { id = NE.1 }
@@ -368,15 +341,6 @@ decisions = {
 				remove_trait = imbecile
 				remove_trait = dull
 				
-				hidden_tooltip = {
-					if = {
-						limit = {
-							religion_group = indian_group
-						}
-						add_trait = kshatriya
-						character_event = { id = RoI.30121 }
-					}
-				}
 				set_character_flag = debutante
 				save_event_target_as = invited_character
 			}

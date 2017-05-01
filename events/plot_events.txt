@@ -18630,22 +18630,9 @@ letter_event = {
 			hidden_tooltip = {
 				if = {
 					limit = {
-						religion = catholic
+						religion = puniner
 					}
-					k_papal_state = {
-						holder_scope = {
-							opinion = {
-								who = PREVPREV
-								modifier = opinion_deposed_antipope
-							}
-						}
-					}
-				}
-				if = {
-					limit = {
-						religion = fraticelli
-					}
-					d_fraticelli = {
+					k_zwoelfe = {
 						holder_scope = {
 							opinion = {
 								who = PREVPREV
@@ -18658,8 +18645,7 @@ letter_event = {
 		}
 		hidden_tooltip = {
 			rightful_religious_head_scope = {
-				remove_claim = k_papal_state
-				remove_claim = d_fraticelli
+				remove_claim = k_zwoelfe
 			}
 		}
 		
@@ -19235,41 +19221,8 @@ letter_event = {
 		}
 		FROM = {
 			faction_increase_council_power = { # The target (title) of the faction
-				if = {
-					limit = { has_law = law_voting_power_0 }
-					add_law_w_cooldown = law_voting_power_1
-					break = yes
-				}
-				if = {
-					limit = { has_law = war_voting_power_0 }
-					add_law_w_cooldown = war_voting_power_1
-					break = yes
-				}
-				if = {
-					limit = { has_law = revoke_title_voting_power_0 }
-					add_law_w_cooldown = revoke_title_voting_power_1
-					break = yes
-				}
-				if = {
-					limit = { has_law = imprison_voting_power_0 }
-					add_law_w_cooldown = imprison_voting_power_1
-					break = yes
-				}
-				if = {
-					limit = { has_law = grant_title_voting_power_0 }
-					add_law_w_cooldown = grant_title_voting_power_1
-					break = yes
-				}
-				if = {
-					limit = { has_law = banish_voting_power_0 }
-					add_law_w_cooldown = banish_voting_power_1
-					break = yes
-				}
-				if = {
-					limit = { has_law = execution_voting_power_0 }
-					add_law_w_cooldown = execution_voting_power_1
-					break = yes
-				}
+				increase_council_power_effect = yes
+				increase_vassal_freedom_effect = yes
 			}
 		}
 	}
@@ -19632,21 +19585,47 @@ letter_event = {
 						job_spiritual = { remove_title = job_spiritual }
 					}
 				}
-				if = {
-					limit = { has_law = law_voting_power_0 }
-					add_law_w_cooldown = law_voting_power_1 
-				}
-				if = {
-					limit = { has_law = war_voting_power_0 }
-					add_law_w_cooldown = war_voting_power_1
-				}
+				increase_council_power_effect = yes
+				increase_vassal_freedom_effect = yes
+				increase_vassal_freedom_effect = yes
 				if = {
 					limit = { has_law = succession_voting_power_0 }
 					add_law_w_cooldown = succession_voting_power_1
 				}
-				if = {
-					limit = { NOT =  { has_law = succ_feudal_elective } }
-					add_law_w_cooldown = succ_feudal_elective
+				custom_tooltip = {
+					text = overthrow_text
+					hidden_tooltip = {
+						if = {
+							limit = { 
+								NOT = { has_law = succ_feudal_elective }
+								has_law = law_voting_power_1
+								has_law = banish_voting_power_1
+								has_law = execution_voting_power_1
+								has_law = revoke_title_voting_power_1
+								has_law = grant_title_voting_power_1
+								has_law = imprison_voting_power_1
+								has_law = war_voting_power_1						
+							}
+							add_law_w_cooldown = succ_feudal_elective
+						}
+						if = {
+							limit = {
+								NOT = { has_law = succ_gavelkind }
+								NOT = { has_law = succ_feudal_elective }
+								NAND = {
+									has_law = succ_feudal_elective
+									has_law = law_voting_power_1
+									has_law = banish_voting_power_1
+									has_law = execution_voting_power_1
+									has_law = revoke_title_voting_power_1
+									has_law = grant_title_voting_power_1
+									has_law = imprison_voting_power_1
+									has_law = war_voting_power_1						
+								}
+							}
+							add_law_w_cooldown = succ_gavelkind
+						}
+					}
 				}
 			}
 		}
